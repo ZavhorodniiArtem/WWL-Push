@@ -1,0 +1,25 @@
+:root {
+  font-family: Manrope, sans-serif;
+  line-height: normal;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0 32px;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+  background: linear-gradient(129deg, #323A47 1.20%, #391F1F 100%);
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
